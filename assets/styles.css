@@ -1,0 +1,40 @@
+* {
+margin: 0;
+padding: 0;
+}
+main {
+    padding: 40px 50px 50px 50px;
+    background: #d4d2d2;
+    height: 100vh;
+}
+
+body {
+    margin: 50px;
+    background: #858383ef;
+    height: 100vh;
+  }
+  hr,
+  div {
+    margin-bottom: 20px;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  ul span {
+    font-weight: bold;
+  }
+  
+  .x-delete {
+    cursor: pointer;
+  }
+  
+  tr:hover td {
+    background: #8080801c;
+  }
+  
+  th,
+  td {
+    padding: 1px 5px;
+  }
+  
